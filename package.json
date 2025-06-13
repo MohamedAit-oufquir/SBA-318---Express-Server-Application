@@ -1,15 +1,24 @@
 {
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^5.1.0"
   },
   "name": "sba-express-server-application",
   "version": "1.0.0",
   "main": "script.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedAit-oufquir/SBA-318---Express-Server-Application.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MohamedAit-oufquir/SBA-318---Express-Server-Application/issues"
+  },
+  "homepage": "https://github.com/MohamedAit-oufquir/SBA-318---Express-Server-Application#readme",
   "description": ""
 }
